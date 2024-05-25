@@ -56,6 +56,7 @@ docker run -p 8501:8501 Github-repo-scanner
 
 ## UI
 Screenshots of the UI:
+
 ![UI](assets/streamlit_ui.png)
 
 ## Architecture
