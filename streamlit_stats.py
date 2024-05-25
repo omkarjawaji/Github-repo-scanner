@@ -22,7 +22,7 @@ class StreamlitStatistics:
         pie_chart = self.plot_pie_chart()
         st.pyplot(pie_chart)
 
-        st.header("Statistics")
+        st.header("Details")
 
         selected_category = st.selectbox("File exists?", [True, False])
         st.header(f"Items in Category {selected_category}")
